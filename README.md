@@ -1,3 +1,4 @@
+<link href='//donate.kky.ze.cx/favicon.ico' rel='icon' type='image/x-icon'/>
 # Sorry We-are-closed-
 closed 
 (1) क्षमा करें दुर्भाग्यवश 1 February 2021 को हम बंद हो गए हैं
